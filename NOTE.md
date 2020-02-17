@@ -28,7 +28,7 @@ Here is the project/task for my cpp learning
 ```
 image:
 
-![example](https://github.com/sysu-19351128/cppclass/image/capture_20200217194204955.jpg)
+![](https://github.com/sysu-19351128/cppclass/blob/master/image/capture_20200217194204955.jpg)
 
 and next is the private/pubilc/protected
 pubilc means it can be visit by outside funtions like:
